@@ -1,6 +1,7 @@
 # OmniAuth AllScripts
 
 [![Build Status](https://travis-ci.org/bartimaeus/omniauth-allscripts.svg?branch=master)](https://travis-ci.org/bartimaeus/omniauth-allscripts)
+[![Gem Version](https://badge.fury.io/rb/omniauth-allscripts.svg)](https://badge.fury.io/rb/omniauth-allscripts)
 
 An AllScripts OAuth2 strategy for OmniAuth.
 
